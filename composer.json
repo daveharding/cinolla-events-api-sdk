@@ -3,6 +3,6 @@
     "description": "Cinolla Events API Package",
     "require": {
         "php": "^5.6",
-        "another-vendor/package": "1.*"
+        "aws/aws-sdk-php": "^3.52"
     }
 }
