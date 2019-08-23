@@ -1,0 +1,8 @@
+{
+    "name": "daveharding/cinolla-events-api-sdk",
+    "description": "Cinolla Events API Package",
+    "require": {
+        "php": "^5.6",
+        "another-vendor/package": "1.*"
+    }
+}
